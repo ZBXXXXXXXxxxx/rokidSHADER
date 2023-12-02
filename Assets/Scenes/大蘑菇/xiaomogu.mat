@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: xiaomogu
+  m_Shader: {fileID: 4800000, guid: 519aa0e222cc06a46acd3827c19fce7a, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: b64bea5f594b54041bd6058834e28c45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _basecolor:
+        m_Texture: {fileID: 2800000, guid: 2cf03fa004494644caec979d3793d483, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _emi:
+        m_Texture: {fileID: 2800000, guid: 0220049224ec9fd4b8d7e0f7c7a29db8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Float4: 0
+    - _Lightrange: 0
+    m_Colors:
+    - _Color0: {r: 0.0067218556, g: 0.005771646, b: 0, a: 0}
+    - _Color1: {r: 2.4913445, g: 0, b: 2.4522128, a: 0}
+    - _Color2: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector2: {r: 0, g: 1, b: 0, a: 0}
+    - _fresnal: {r: 0, g: 3.59, b: 5, a: 0}
+  m_BuildTextureStacks: []
