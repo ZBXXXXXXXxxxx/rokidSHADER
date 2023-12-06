@@ -35,10 +35,16 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float1: 0.95
+    - _Float12: -0.41
+    - _Float13: 3.23
+    - _Float15: -1.13
+    - _Float18: 0.08
+    - _Float19: 0
     - _exp: 0.57
     m_Colors:
     - _Color0: {r: 78.79325, g: 69.52346, b: 69.52346, a: 0}
     - _Color1: {r: 0.10087279, g: 0.10087279, b: 0.10087279, a: 0}
+    - _Color2: {r: 282.64478, g: 0, b: 966.03754, a: 0}
     - _Vector0: {r: -0.01, g: 0.33, b: 2.11, a: 0}
     - _fresnal: {r: 12.1257305, g: 1.9356321, b: 0, a: 0}
   m_BuildTextureStacks: []

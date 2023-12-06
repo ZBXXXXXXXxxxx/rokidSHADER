@@ -23,6 +23,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float0: 17.11
+    - _Float13: -0.98
+    - _Float14: 2.26
+    - _Float19: 0.96
     - _Float6: 0.2
     m_Colors:
     - _Color0: {r: 1024, g: 1024, b: 1024, a: 0}
