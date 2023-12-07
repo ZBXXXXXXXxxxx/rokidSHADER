@@ -27,6 +27,7 @@ Material:
     - _Float14: 2.26
     - _Float19: 0.96
     - _Float6: 0.2
+    - _XIAOSAN: -0.98
     m_Colors:
     - _Color0: {r: 1024, g: 1024, b: 1024, a: 0}
     - _Color1: {r: 0, g: 0.19464663, b: 2.8577678, a: 0}

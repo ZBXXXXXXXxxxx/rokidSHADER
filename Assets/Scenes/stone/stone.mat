@@ -33,7 +33,7 @@ Material:
     - _Float0: -40
     - _Float5: -0.2
     - _Lightrange1: 0
-    - _exp: -0.1
+    - _exp: 0.22
     m_Colors:
     - _Color0: {r: 0, g: 0.3114843, b: 3.446487, a: 0}
     - _Color3: {r: 0, g: 2.462395, b: 4.237095, a: 0}
